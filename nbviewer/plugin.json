@@ -1,0 +1,7 @@
+{
+	"name": "nbviewer",
+	"suffix": [
+		"ipynb"
+	],
+	"exec": "nbconvert.cmd \"*SEER_INPUT_PATH*\" \"*SEER_OUTPUT_PATH*.html\""
+}
